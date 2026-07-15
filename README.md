@@ -1,152 +1,167 @@
-<!-- Encabezado Dinámico -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nilsen%20Ray&desc=Full%20Stack%20Mobile%20Developer&animation=twinkling&fontSize=70&descSize=20&fontColor=ffffff&stroke=0000" />
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=220&text=Nilsen%20Mendoza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Mobile%20Developer&descAlignY=65&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Mobile+Development+%7C+React+%26+Flutter;AI+%2F+ML+%7C+Coffee+Disease+Classifier;Building+products+end-to-end+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nilsenm&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/nilsenm?style=flat-square&color=8B5CF6&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/based_in-Per%C3%BA-8B5CF6?style=flat-square" />
+
 </div>
 
-<!-- Banner Animado (corregido: herokuapp.com está descontinuado, se usa el fork activo demolab.com) -->
+<br>
+
+## 👋 Sobre mí
+
+Desarrollador full stack enfocado en **mobile** y **AI/ML**, con interés particular en llevar modelos de machine learning a productos reales — como mi clasificador de enfermedades del café. Me gusta construir de punta a punta: del modelo al producto en la mano del usuario.
+
+<br>
+
+## 🧰 Stack Principal
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mobile+Development+Expert+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Coffee+Disease+Classifier+%F0%9F%8C%BF;Innovating+Through+Code+%F0%9F%9A%80" />
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,swift,react,ts&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,nodejs,firebase&theme=dark" />
 </div>
 
-<!-- GitHub Activity -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mendozabernillanilsen10&style=for-the-badge&color=red" />
-  <img src="https://img.shields.io/github/followers/mendozabernillanilsen10?style=for-the-badge&color=red" />
-  <img src="https://img.shields.io/github/stars/mendozabernillanilsen10?style=for-the-badge&color=red" />
-</div>
-
-<!-- Trofeos -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mendozabernillanilsen10&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
-
-<!-- Stack Tecnológico -->
-# 🛠️ Tech Stack
+<details>
+<summary><b>Ver stack completo</b></summary>
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌐 Frontend & Mobile  
-<div align="center">  
-<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin" /><br>
-<img src="https://skillicons.dev/icons?i=ts,js,css,tailwind" />
+**Frontend & Mobile**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,ts,js,css,tailwind&theme=dark" />
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-## ⚙️ Backend & DevOps
+**Backend & DevOps**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,django,express" /><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,django,express,aws,docker,firebase,mongodb&theme=dark" />
 </div>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 AI & Machine Learning
+**AI & Machine Learning**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🔧 Tools & Environment
+**Tools & Entorno**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" /><br>
-<img src="https://skillicons.dev/icons?i=figma,xd,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,linux&theme=dark" />
 </div>
 
 </td>
 </tr>
 </table>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mendozabernillanilsen10&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mendozabernillanilsen10&theme=radical&hide_border=true" />
-</div>
+</details>
 
-<!-- Gráfico de Actividad -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&custom_title=Nilsen's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=00FF00&point=00FF00&area=true" />
-</div>
+<br>
 
-<!-- Lenguajes Más Usados -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozabernillanilsen10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+## 🚀 Proyectos Destacados
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <a href="https://github.com/mendozabernillanilsen10/coffee-disease-classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=coffee-disease-classifier&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/mendozabernillanilsen10/mobile-development-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=mobile-development-solutions&theme=radical&hide_border=true" />
-  </a>
-</div>
+### 🌿 Coffee Disease Classifier
+Modelo de visión por computadora para detectar enfermedades en cultivos de café a partir de imágenes de hojas, pensado para apoyar a pequeños productores.
 
-> ⚠️ Recuerda cambiar los nombres de repo (`coffee-disease-classifier`, `mobile-development-solutions`) por los nombres reales y exactos de tus repositorios en GitHub — si no coinciden, la tarjeta no se renderiza.
+`Python` `TensorFlow` `Computer Vision`
 
-# 💻 Weekly Development
+**[→ Ver repositorio](https://github.com/nilsenm/coffee-disease-classifier)**
 
-```text
-Kotlin        ███████████████░░░░░   45.25%
-Python        ████████████░░░░░░░░   30.28%
-Flutter       ██████░░░░░░░░░░░░░░   15.12%
-JavaScript    ████░░░░░░░░░░░░░░░░    9.35%
-```
+</td>
+<td width="50%" valign="top">
 
-# 🎯 About Me
+### 📱 Mobile Development Solutions
+Colección de soluciones y componentes reutilizables para desarrollo mobile multiplataforma.
 
-```python
-class NilsenRay:
-    def __init__(self):
-        self.name = "Nilsen Ray Mendoza Bernilla"
-        self.role = "Full Stack Mobile Developer"
-        self.location = "Perú"
-        self.knowledge = ["Mobile Development", "AI/ML", "Web Development"]
-        self.interests = ["Coffee Disease Classification", "Innovation", "Technology"]
+`Flutter` `Kotlin` `Mobile`
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's create something amazing together!")
+**[→ Ver repositorio](https://github.com/nilsenm/mobile-development-solutions)**
 
-me = NilsenRay()
-me.say_hi()
-```
+</td>
+</tr>
+</table>
 
-# 🌐 Connect With Me
+> ⚠️ Verifica que `coffee-disease-classifier` y `mobile-development-solutions` coincidan exactamente con los nombres de tus repos — si no, actualízalos aquí y en las tarjetas de abajo.
 
 <div align="center">
-  <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/smith_de_cielos">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/nilsenray">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+<a href="https://github.com/nilsenm/coffee-disease-classifier">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilsenm&repo=coffee-disease-classifier&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nilsenm/mobile-development-solutions">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilsenm&repo=mobile-development-solutions&theme=tokyonight&hide_border=true" />
+</a>
 </div>
 
-<!-- Snake Animation -->
+<br>
+
+## 📊 Estadísticas
+
+<div align="center">
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=nilsenm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=nilsenm&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilsenm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<details>
+<summary><b>🏆 Ver trofeos de GitHub</b></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nilsenm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+</details>
+
+<br>
+
+## 🐍 Actividad de Contribuciones
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mendozabernillanilsen10/mendozabernillanilsen10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mendozabernillanilsen10/mendozabernillanilsen10/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mendozabernillanilsen10/mendozabernillanilsen10/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
-<!-- Footer -->
+<br>
+
+## 🌐 Conecta conmigo
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/smith_de_cielos">
+    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/nilsenray">
+    <img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
