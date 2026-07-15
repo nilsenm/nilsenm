@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nilsen%20Ray&desc=Full%20Stack%20Mobile%20Developer&animation=twinkling&fontSize=70&descSize=20&fontColor=ffffff&stroke=0000" />
 </div>
 
-<!-- Banner Animado -->
+<!-- Banner Animado (corregido: herokuapp.com está descontinuado, se usa el fork activo demolab.com) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mobile+Development+Expert+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Coffee+Disease+Classifier+%F0%9F%8C%BF;Innovating+Through+Code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mobile+Development+Expert+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Coffee+Disease+Classifier+%F0%9F%8C%BF;Innovating+Through+Code+%F0%9F%9A%80" />
 </div>
 
 <!-- GitHub Activity -->
@@ -70,11 +70,13 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mendozabernillanilsen10&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mendozabernillanilsen10&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mendozabernillanilsen10&theme=radical&hide_border=true" />
 </div>
 
 <!-- Gráfico de Actividad -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&custom_title=Nilsen's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=00FF00&point=00FF00&area=true" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&custom_title=Nilsen's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=00FF00&point=00FF00&area=true" />
+</div>
 
 <!-- Lenguajes Más Usados -->
 <div align="center">
@@ -84,13 +86,15 @@
 # 🚀 Featured Projects
 
 <div align="center">
-  <a href="your-repo-link">
+  <a href="https://github.com/mendozabernillanilsen10/coffee-disease-classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=coffee-disease-classifier&theme=radical&hide_border=true" />
   </a>
-  <a href="your-repo-link">
+  <a href="https://github.com/mendozabernillanilsen10/mobile-development-solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=mobile-development-solutions&theme=radical&hide_border=true" />
   </a>
 </div>
+
+> ⚠️ Recuerda cambiar los nombres de repo (`coffee-disease-classifier`, `mobile-development-solutions`) por los nombres reales y exactos de tus repositorios en GitHub — si no coinciden, la tarjeta no se renderiza.
 
 # 💻 Weekly Development
 
@@ -99,25 +103,28 @@ Kotlin        ███████████████░░░░░   45.
 Python        ████████████░░░░░░░░   30.28%
 Flutter       ██████░░░░░░░░░░░░░░   15.12%
 JavaScript    ████░░░░░░░░░░░░░░░░    9.35%
-
 ```
 
-🎯 About Me
+# 🎯 About Me
+
 ```python
 class NilsenRay:
-    def **init**(self):
+    def __init__(self):
         self.name = "Nilsen Ray Mendoza Bernilla"
         self.role = "Full Stack Mobile Developer"
         self.location = "Perú"
         self.knowledge = ["Mobile Development", "AI/ML", "Web Development"]
         self.interests = ["Coffee Disease Classification", "Innovation", "Technology"]
+
     def say_hi(self):
         print("Thanks for visiting my profile! Let's create something amazing together!")
+
 me = NilsenRay()
 me.say_hi()
-
 ```
-🌐 Connect With Me
+
+# 🌐 Connect With Me
+
 <div align="center">
   <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -129,6 +136,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -137,11 +145,8 @@ me.say_hi()
     <img alt="github-snake" src="https://raw.githubusercontent.com/mendozabernillanilsen10/mendozabernillanilsen10/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
-
-
-
-
