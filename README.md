@@ -1,167 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=220&text=Nilsen%20Mendoza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Mobile%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=200&section=header&text=Nilsen%20Mendoza%20Bernilla&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=FullStack%20%26%20Mobile%20Developer%20%7C%20IA%20%2F%20RAG%20%7C%20L%C3%ADder%20T%C3%A9cnico&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Mobile+Development+%7C+React+%26+Flutter;AI+%2F+ML+%7C+Coffee+Disease+Classifier;Building+products+end-to-end+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Flutter+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+FastAPI;Asistentes+con+IA+y+RAG+en+producci%C3%B3n;Pagos+digitales+%C2%B7+Facturaci%C3%B3n+SUNAT;Del+backend+a+la+app+en+la+mano+del+usuario+%F0%9F%9A%80" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=nilsenm&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/nilsenm?style=flat-square&color=8B5CF6&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/based_in-Per%C3%BA-8B5CF6?style=flat-square" />
+<a href="https://linkedin.com/in/nilsen-mendoza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nilsenmendozabernilla@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wiratechsolution.com"><img src="https://img.shields.io/badge/WiraTech-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Chiclayo%2C_Per%C3%BA-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
-
-<br>
 
 ## 👋 Sobre mí
 
-Desarrollador full stack enfocado en **mobile** y **AI/ML**, con interés particular en llevar modelos de machine learning a productos reales — como mi clasificador de enfermedades del café. Me gusta construir de punta a punta: del modelo al producto en la mano del usuario.
+Bachiller en **Ingeniería de Sistemas** con más de 4 años desarrollando aplicaciones **móviles, web y backend** de punta a punta.
 
-<br>
+- 🚕 Hoy lidero el desarrollo técnico de **[Lesotur](https://lesotur.com)**, una app de movilidad urbana en tiempo real, con pagos digitales (Yape On File, Flow, Mercado Pago) y facturación electrónica SUNAT.
+- 🤖 Desarrollé el **asistente virtual con IA de la Municipalidad Metropolitana de Lima**: RAG, varios proveedores de modelos y evaluación automática de la calidad de las respuestas.
+- 🏗️ Trabajo con Clean Architecture, microservicios, WebSockets, Docker y CI/CD.
+- ⚡ Uso a diario Claude Code y GitHub Copilot para entregar más rápido y con mejor calidad.
 
-## 🧰 Stack Principal
+## 🧰 Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,swift,react,ts&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,nodejs,firebase&theme=dark" />
+
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase&theme=dark" />
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,laravel,php,python,fastapi,django,spring&theme=dark" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,js&theme=dark" />
+
+**Datos y DevOps**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,nginx,linux,aws,githubactions&theme=dark" />
+
+**IA aplicada**<br>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentes_de_IA-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-111827?style=for-the-badge"/>
+
 </div>
 
-<details>
-<summary><b>Ver stack completo</b></summary>
-<br>
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Frontend & Mobile**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,ts,js,css,tailwind&theme=dark" />
-</div>
+### 🚕 Lesotur — Movilidad urbana
+App de viajes en tiempo real con negociación de tarifas entre pasajero y conductor. La diseñé y construí desde cero.
+
+- Geolocalización en tiempo real con WebSockets
+- Pagos: Yape On File, Flow, Mercado Pago
+- Facturación electrónica SUNAT · Push con FCM
+
+`Flutter` `NestJS` `Clean Architecture` `Docker`
+
+**[🌐 Web](https://lesotur.com) · [📱 Google Play](https://play.google.com/store/apps/details?id=com.lesotur.app)**
 
 </td>
 <td width="50%" valign="top">
 
-**Backend & DevOps**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,django,express,aws,docker,firebase,mongodb&theme=dark" />
-</div>
+### 🤖 Asistente IA — Municipalidad de Lima
+Asistente que orienta a los ciudadanos sobre trámites, Mesa de Partes, pagos (SAT), licencias y reclamos.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- RAG con OpenAI, Gemini y OpenRouter + modelo de respaldo
+- Evaluación diaria automática: de 29/32 a **32/32** aciertos
+- Streaming en tiempo real y widget web embebible
 
-**AI & Machine Learning**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-**Tools & Entorno**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,linux&theme=dark" />
-</div>
+`Python` `FastAPI` `Laravel` `React` `PostgreSQL`
 
 </td>
 </tr>
 </table>
 
-</details>
-
-<br>
-
-## 🚀 Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌿 Coffee Disease Classifier
-Modelo de visión por computadora para detectar enfermedades en cultivos de café a partir de imágenes de hojas, pensado para apoyar a pequeños productores.
-
-`Python` `TensorFlow` `Computer Vision`
-
-**[→ Ver repositorio](https://github.com/nilsenm/coffee-disease-classifier)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development Solutions
-Colección de soluciones y componentes reutilizables para desarrollo mobile multiplataforma.
-
-`Flutter` `Kotlin` `Mobile`
-
-**[→ Ver repositorio](https://github.com/nilsenm/mobile-development-solutions)**
-
-</td>
-</tr>
-</table>
-
-> ⚠️ Verifica que `coffee-disease-classifier` y `mobile-development-solutions` coincidan exactamente con los nombres de tus repos — si no, actualízalos aquí y en las tarjetas de abajo.
-
-<div align="center">
-<a href="https://github.com/nilsenm/coffee-disease-classifier">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilsenm&repo=coffee-disease-classifier&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nilsenm/mobile-development-solutions">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilsenm&repo=mobile-development-solutions&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-<br>
+> 🔒 La mayoría de mis proyectos profesionales son privados por acuerdos con clientes. Con gusto los muestro en una entrevista.
 
 ## 📊 Estadísticas
 
 <div align="center">
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=nilsenm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=nilsenm&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilsenm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<details>
-<summary><b>🏆 Ver trofeos de GitHub</b></summary>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=nilsenm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilsenm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 <br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nilsenm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-</details>
-
-<br>
-
-## 🐍 Actividad de Contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nilsenm/nilsenm/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+<img src="https://streak-stats.demolab.com/?user=nilsenm&theme=tokyonight&hide_border=true" />
 </div>
 
-<br>
-
-## 🌐 Conecta conmigo
-
-<div align="center">
-  <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/smith_de_cielos">
-    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/nilsenray">
-    <img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=100&section=footer" width="100%"/>
